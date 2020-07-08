@@ -12,6 +12,9 @@ namespace Lab03_CodeChallenges
         static void ThisIsAMethod()
         {
             //this is a method
+            string[] cats = new string[] { "josie", "belle" };
+
+
         }
     }
 }
