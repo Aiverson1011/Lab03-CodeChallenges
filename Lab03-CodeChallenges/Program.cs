@@ -8,5 +8,10 @@ namespace Lab03_CodeChallenges
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void ThisIsAMethod()
+        {
+            //this is a method
+        }
     }
 }
