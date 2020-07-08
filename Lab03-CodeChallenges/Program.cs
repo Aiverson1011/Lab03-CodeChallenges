@@ -9,6 +9,9 @@ namespace Lab03_CodeChallenges
             Console.WriteLine("Hello World!");
         }
 
+        /// <summary>
+        /// This is a summary comment
+        /// </summary>
         static void ThisIsAMethod()
         {
             //this is a method
